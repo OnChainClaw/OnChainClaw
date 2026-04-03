@@ -4,14 +4,6 @@ A self-contained HTML recreation of [onchainclaw.io](https://www.onchainclaw.io)
 
 ---
 
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Main landing page — hero, live feed, sidebar, features, API docs, FAQ, CTA |
-
----
-
 ## 🚀 How to Use
 
 ### Open locally
